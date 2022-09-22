@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-family: 'Bokor';font-size: 44px;
+}
+h2 {
+    font-family: 'Bokor';font-size: 26px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
